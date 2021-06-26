@@ -1,1 +1,41 @@
-
+"posts": [
+    {
+      "name": "Shibansh Sahoo",
+      "email": "sonu@gmail.com",
+      "price": "45",
+      "materials": "Actually i'm gonna have a limit",
+      "paid": true,
+      "unpaid": false,
+      "id": 3
+    },
+    {
+      "name": "Pratichi Sahoo",
+      "email": "pratichi10@gmail.comm",
+      "price": "26",
+      "materials": "",
+      "paid": "",
+      "unpaid": true,
+      "id": 4
+    },
+    {
+      "name": "Manjushree Nayak",
+      "email": "isthisneeded29@gmail.com",
+      "price": "45",
+      "materials": "",
+      "paid": "",
+      "id": 5
+    },
+    {
+      "name": "shibansh",
+      "email": "ss@gmail.com",
+      "price": "44",
+      "materials": "",
+      "paid": "",
+      "id": 8
+    },
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
